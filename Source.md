@@ -42,3 +42,11 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - npm i -y 
 - npm i express
 - npm i nodemon -D
+- add .gitignore (node_modules)
+- package.json [
+  "main": "server.js",
+  "start": "node server",
+  "dev": "nodemon server"
+]
+- server.js
+- 
