@@ -54,3 +54,7 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - public/css/style.css
 - routes/root.js
 - views/index.html
+- views/404.html
+- set up 404 routing in server.js
+#### End Lesson 1 video
+---
