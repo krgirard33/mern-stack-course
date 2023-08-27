@@ -38,6 +38,10 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 
 --- 
 
+## To Start 
+- npm run dev [starts in nodemon]
+- npm run start [starts in normal mode]
+
 ### Steps
 - npm i -y 
 - npm i express
