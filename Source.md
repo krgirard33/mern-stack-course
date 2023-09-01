@@ -62,3 +62,9 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - set up 404 routing in server.js
 #### End Lesson 1 video
 ---
+### Lesson 2
+- [server.js] add app.use(express.json());
+- create logs & middleware folders
+- [terminal] npm i date-fns uuid
+- create logger.js
+- add logs to gitignore
