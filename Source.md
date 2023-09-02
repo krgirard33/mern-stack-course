@@ -43,13 +43,13 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - npm run start [starts in normal mode]
 
 ### Steps
-- npm i -y 
-- npm i express
-- npm i nodemon -D
+- [terminal] npm i -y 
+- [terminal] npm i express
+- [terminal] npm i nodemon -D
 - open browser to http://localhost:3500/
 - add .gitignore (node_modules)
-- initiate git
-- package.json [
+- [terminal] initiate git
+- package.json scripts [
   "main": "server.js",
   "start": "node server",
   "dev": "nodemon server"
@@ -66,5 +66,10 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - [server.js] add app.use(express.json());
 - create logs & middleware folders
 - [terminal] npm i date-fns uuid
-- create logger.js
+- create middleware/logger.js
 - add logs to gitignore
+- [server.js] add logger
+- create middleware/errorHandler.js
+- [server.js] add errorHandler
+- [terminal] npm i cookie-parser
+- [server.js] add cookieParser
