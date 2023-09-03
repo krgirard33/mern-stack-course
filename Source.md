@@ -87,3 +87,4 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - [server.js] add console.log(process.env.NODE_ENV);
 - create MongoDB @ mongodb.com
 - [terminal] npm i mongoose
+- create models/User.js
