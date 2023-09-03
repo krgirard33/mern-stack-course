@@ -38,6 +38,9 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 
 --- 
 
+## User Stories
+- [UserStories.md](UserStories.md)
+
 ## To Start 
 - npm run dev [starts in nodemon]
 - npm run start [starts in normal mode]
