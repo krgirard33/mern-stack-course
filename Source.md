@@ -42,7 +42,7 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - npm run dev [starts in nodemon]
 - npm run start [starts in normal mode]
 
-### Steps
+### Lesson 1
 - [terminal] npm i -y 
 - [terminal] npm i express
 - [terminal] npm i nodemon -D
@@ -60,8 +60,8 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - views/index.html
 - views/404.html
 - set up 404 routing in server.js
-#### End Lesson 1 video
 ---
+
 ### Lesson 2
 - [server.js] add app.use(express.json());
 - create logs & middleware folders
@@ -73,3 +73,17 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - [server.js] add errorHandler
 - [terminal] npm i cookie-parser
 - [server.js] add cookieParser
+- [terminal] npm i cors
+- create config folder
+- create config/allowedOrigins.js
+- create config/corsOptions.js
+- [server.js] add cors, corsOptions, app.use(cors(corsOptions));
+---
+
+### Lesson 3
+- [terminal] npm i dotenv
+- create .env
+- add .env on gitignore
+- [server.js] add console.log(process.env.NODE_ENV);
+- create MongoDB @ mongodb.com
+- [terminal] npm i mongoose
