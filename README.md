@@ -91,3 +91,10 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 - create MongoDB @ mongodb.com
 - [terminal] npm i mongoose
 - create models/User.js
+- create models/Note.js
+- [terminal] npm i mongoose-sequence
+- create config/dbConn.js
+- [server.js] add connectDB, mongoose, logEvents, mongoose.connection.once & mongoose.connection.on
+---
+
+### Lesson 4
