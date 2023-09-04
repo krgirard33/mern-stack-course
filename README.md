@@ -98,3 +98,8 @@ All Resources for this MERN Stack Project: https://github.com/gitdagray/mern_sta
 ---
 
 ### Lesson 4
+- [server.js] add app.use('/users'
+- create controllers/userController.js
+- create routes/userRoutes.js
+- [terminal] npm i express-async-handler bcrypt
+- 
